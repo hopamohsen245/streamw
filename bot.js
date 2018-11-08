@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`We Dont Talk ANY MORE `,"http://twitch.tv/plexy")
+client.user.setGame(`sell BOT CREDIT `,"http://twitch.tv/plexy")
 client.user.setStatus("dnd")
 });
 
